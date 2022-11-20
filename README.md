@@ -5,8 +5,9 @@ Exploits the google chrome bookmark sync service to store files for free
 
 # Installation and usage
 1. Go to releases and download bookmarkfs.crx
-2. Go to chrome://extensions and enable developer mode
-3. Drag and drop the .crx file into the extensions page
+2. Extract files out of bookmarkfs.crx
+3. Go to chrome://extensions and enable developer mode
+4. Upload folder via 'Load unpacked'
 
 
 To upload a file, click on the icon for the extension and it will open up a page where you can upload, download, and delete files
