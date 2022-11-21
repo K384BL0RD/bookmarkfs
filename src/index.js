@@ -1,3 +1,4 @@
+import { encode, decode } from './encoder';
 import { base64ToBytes, bytesToBase64 } from './encodeArray';
 
 import * as fflate from "fflate";
